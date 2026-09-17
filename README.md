@@ -15,25 +15,40 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhahzahid&show_icons=true&locale=en" alt="talhahzahid" /></p>
  -->
+<div align="center">
+
+<img src="./assets/developer-banner.png" alt="Talha Zahid - Full Stack Developer" width="100%"/>
+
 # Hi, I'm Talha Zahid 👋
 
-### Full-Stack Developer | MERN Stack | AI-Powered Applications
+### Full-Stack Developer · MERN Stack · AI-Powered Applications
 
-I'm a Full-Stack Developer focused on building scalable, production-ready web applications using modern JavaScript technologies.
+I build modern, scalable, and production-ready web applications using JavaScript/TypeScript technologies.
+I'm passionate about solving real-world problems, building clean APIs, designing reliable systems, and exploring AI-powered applications.
 
-I enjoy working across the entire development lifecycle — from designing responsive interfaces and REST APIs to database architecture, authentication, cloud deployment, and integrating AI/LLM capabilities into applications.
+<p>
+  <a href="https://github.com/talhazahid">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/talhazahid">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 💻 Full-Stack Developer with experience building modern web applications
-* ⚛️ Strong focus on **React.js, Next.js, Node.js, and Express.js**
-* 🗄️ Experience with **PostgreSQL, SQL, Sequelize, and database design**
-* 🤖 Exploring **LLMs, RAG, and AI-powered applications**
+* 💻 Full-Stack Developer focused on modern web applications
+* ⚛️ Experienced with **React.js, Next.js, Node.js, and Express.js**
+* 🗄️ Work with **PostgreSQL, SQL, Sequelize, and database design**
+* 🤖 Building and exploring **LLM and AI-powered applications**
 * ☁️ Familiar with **AWS, CI/CD, Git, and GitHub**
-* 🔧 Interested in writing clean, maintainable, and production-ready code
-* 📚 Continuously improving my problem-solving and system design skills
+* 🔐 Experience with authentication, authorization, validation, and API design
+* 🧩 Interested in scalable backend architecture and system design
+* 📚 Continuously improving JavaScript, TypeScript, DSA, and problem-solving skills
 
 ---
 
@@ -41,136 +56,163 @@ I enjoy working across the entire development lifecycle — from designing respo
 
 ### Frontend
 
-* JavaScript
-* TypeScript
-* React.js
-* Next.js
-* HTML5
-* CSS3
-* Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
+</p>
 
 ### Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* Authentication & Authorization
-* Error Handling
-* API Validation
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Also working with:** REST APIs · Authentication · Authorization · API Validation · Error Handling
 
 ### Database
 
-* PostgreSQL
-* SQL
-* Sequelize ORM
-* Database Design
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+**Also working with:** SQL · Sequelize ORM · Database Design
 
 ### AI / LLM
 
-* LLM API Integration
-* Prompt Engineering
-* Structured LLM Outputs
-* RAG Fundamentals
-* AI-powered Applications
+`LLM APIs` · `Prompt Engineering` · `Structured Outputs` · `RAG` · `AI Applications`
 
 ### DevOps & Tools
 
-* Git
-* GitHub
-* CI/CD
-* AWS
-* Vercel
-* Postman
-* VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,vercel,postman,vscode,docker" />
+</p>
+
+**Also:** CI/CD · Cloud Fundamentals · API Testing
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Resume ATS Optimizer
+## 🤖 AI Resume ATS Optimizer
 
-An AI-powered application that analyzes resumes and generates ATS-based scores and improvement suggestions.
+An AI-powered application that analyzes resumes, calculates ATS scores, and generates personalized improvement suggestions.
 
-**Key Features:**
+### Highlights
 
-* Resume upload and text extraction
-* AI-powered resume structuring
-* ATS score calculation
-* AI-generated improvement suggestions
-* Content-based caching using SHA-256
-* Asynchronous resume processing
-* Processing status and polling
+* 📄 Resume upload and text extraction
+* 🤖 LLM-powered resume structuring
+* 📊 ATS score calculation
+* 💡 AI-generated improvement suggestions
+* 🔐 Content-based caching using SHA-256
+* ⚡ Asynchronous resume processing
+* 🔄 Processing status and polling
+* 🗄️ Structured resume data storage
 
-**Tech Stack:**
-`Next.js` `React` `Node.js` `PostgreSQL` `LLMs` `REST API`
+**Tech:** `Next.js` `React` `Node.js` `PostgreSQL` `LLMs` `REST API`
 
-🔗 **Live Demo:**
-https://ai-resume-ats-optimizer-nine.vercel.app/
-
----
-
-### 📦 Inventory Management System
-
-A full-stack inventory management application designed to manage products and inventory-related operations.
-
-**Tech Stack:**
-`React` `Node.js` `Express.js` `PostgreSQL` `Sequelize`
-
-🔗 **Live Demo:**
-https://inventory-management-frontend-ruddy.vercel.app/
+🔗 **[Live Demo](https://ai-resume-ats-optimizer-nine.vercel.app/)**
 
 ---
 
-### 👥 HR Management System
+## 📦 Inventory Management System
 
-A full-stack HR management application for managing employee-related operations and organizational data.
+A full-stack inventory management application for managing products and inventory operations.
 
-**Tech Stack:**
-`React` `Node.js` `Express.js` `PostgreSQL` `Sequelize`
+### Highlights
 
-🔗 **Live Demo:**
-https://hr-frontend-six-umber.vercel.app/login
+* Product management
+* Inventory tracking
+* RESTful APIs
+* Authentication & authorization
+* Database-driven architecture
+* Responsive frontend
 
----
+**Tech:** `React` `Node.js` `Express.js` `PostgreSQL` `Sequelize`
 
-## 📊 What I'm Currently Learning
-
-* Advanced JavaScript
-* TypeScript
-* React & Next.js
-* Backend Architecture
-* PostgreSQL & Database Design
-* AWS & Cloud Fundamentals
-* CI/CD
-* LLMs & RAG
-* System Design
-* Data Structures & Algorithms
+🔗 **[Live Demo](https://inventory-management-frontend-ruddy.vercel.app/)**
 
 ---
 
-## 🎯 Career Focus
+## 👥 HR Management System
 
-I'm interested in opportunities where I can work on:
+A full-stack HR management application designed for managing employee-related operations and organizational data.
 
-* Full-Stack Development
-* MERN Stack Applications
-* SaaS Products
-* AI-powered applications
-* Backend systems & APIs
-* Scalable web applications
+### Highlights
 
----
+* Employee management
+* HR data management
+* REST APIs
+* Authentication
+* PostgreSQL database
+* Responsive UI
 
-## 🤝 Let's Connect
+**Tech:** `React` `Node.js` `Express.js` `PostgreSQL` `Sequelize`
 
-I'm always open to connecting with developers, recruiters, and people working on interesting technology projects.
-
-📧 **Email:** [Your Email]
-
-💼 **LinkedIn:** [Your LinkedIn]
-
-🌐 **Portfolio:** [Your Portfolio]
+🔗 **[Live Demo](https://hr-frontend-six-umber.vercel.app/login)**
 
 ---
 
-### 💡 Building. Learning. Improving. 🚀
+# 📚 Currently Learning
+
+```text
+Advanced JavaScript
+TypeScript
+React & Next.js
+Backend Architecture
+PostgreSQL & Database Design
+AWS & Cloud Fundamentals
+CI/CD
+LLMs & RAG
+System Design
+Data Structures & Algorithms
+```
+
+---
+
+# 🎯 Areas of Interest
+
+```text
+Full-Stack Development
+MERN Stack Applications
+AI-Powered Applications
+SaaS Products
+RESTful APIs
+Backend Architecture
+Cloud & DevOps
+Database Design
+System Design
+```
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=talhazahid&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhazahid&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with developers, recruiters, and people building interesting products.
+
+<p>
+  <a href="https://www.linkedin.com/in/talhazahid">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/talhazahid">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Building. Learning. Improving. 🚀
+
+</div>
